@@ -4,10 +4,8 @@ title: TCA & Associates
 buttons:
     - text: Contact Us
       url: '#'
-      class: button trial animated smoothscroll
-    - text: About Us
-      url: '#'
-      class: button learn-more smoothscroll
+      class: button trial smoothscroll
+
 ---
 
 ...a dynamic consulting firm dedicated to teaching people real skills for achieving professional and personal success.
