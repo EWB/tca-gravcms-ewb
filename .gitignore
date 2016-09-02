@@ -4,12 +4,14 @@
 .sass-cache
 
 # Grav Specific
-#backup/*
-#!backup/.*
-#cache/*
-#!cache/.*
-#logs/*
-#!logs/.*
+backup/*
+!backup/.*
+cache/*
+!cache/.*
+logs/*
+!logs/.*
+images/*
+user/data/*
 
 
 # OS Generated
