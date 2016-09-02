@@ -25,10 +25,12 @@ rows:
         description: 'We facilitate Strategic Planning through the use of the Situation Appraisal process, questioning, brainstorming and discussion.  Situation appraisal is a tool to help us clarify and manage the problems that face us.'
         description_position: left
         image: international-students.jpg
+        name: design
     -
         title: Training
         description: 'We work with each organization to ensure that the training we provide is targeted to the intended outcomes.  Trainings are focused on specific outcomes.'
         description_position: right
         image: tedra-cobb-teaching-1.jpg
+        name: design
 ---
 
